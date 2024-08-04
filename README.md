@@ -1,5 +1,6 @@
 # UP Baguio Graduate Bootcamp 2024
 
-#### Day 2
-- Lecture 1. Introduction to Python
-- Lecture 2. Control Structures and Visualization
+## Day 2
+- Guided Workshop. Introduction to Python
+- Guided Workshop. Control Structures and Visualization
+- Lecture and Guided Workshop: Matrix Factorization Methods for Solving Linear Systems
